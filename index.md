@@ -1,5 +1,5 @@
 [Cronus]
-version = 1.0.10
+version = 1.00
 released = 2021-01-12 14:59:23 
 [Beta]
 version = 1.2.1-beta.105
