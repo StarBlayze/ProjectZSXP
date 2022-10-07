@@ -1,0 +1,10 @@
+[Cronus]
+version = 1.00
+released = 2021-01-12 14:59:23 
+[Beta]
+version = 1.2.1-beta.105
+released = 2022-07-12 16:16:10 
+[Notes]
+release =  - You're using the ZSXP MAX Edition (THIRD PARTY APP). This is not an official release of ZS. If you do not know what are you doing, we recommend downloading the official release from the official website. Thank you in advance.
+beta =  - Check beta.cronusmax.com
+
