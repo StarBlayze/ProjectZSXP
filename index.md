@@ -6,4 +6,5 @@ version = 1.2.1-beta.105
 released = 2022-07-12 16:16:10 
 [Notes]
 release =  - You're using the ZenStudio MAX Edition (THIRD PARTY APP)
+pl
 beta =  - Check beta.cronusmax.com
